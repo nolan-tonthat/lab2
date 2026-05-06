@@ -21,7 +21,7 @@ class StockApp:
 
         # Create Window
         self.root = Tk()
-        self.root.title("(myname) Stock Manager") #Replace with a suitable name for your program
+        self.root.title("Stock Manager")
         self.root.geometry("700x550")
 
         # Add Menubar
